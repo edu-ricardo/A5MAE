@@ -1,2 +1,3 @@
-# A5MAE
-Trabalho de A5MAE
+# Build.me
+---
+Projeto para a disciplina de A5MAE do IFSP.
